@@ -11,4 +11,5 @@ public interface StreetService {
     public Street saveStreet(Street street);
 
     public List<Street> listStreets();
+
 }
